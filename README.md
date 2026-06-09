@@ -6,4 +6,5 @@ Founder, [Proffer Futures](https://github.com/proffer-futures) — building [ifw
 
 Conditional commitment turns "I would if others would" into coordinated action: pledges that activate only once enough people opt in.
 
-→ [ifwishlist.com](https://ifwishlist.com)
+**Building** — [ifwishlist.com](https://ifwishlist.com)
+**Open source** — [composer](https://github.com/mini-mato/composer), a system-wide AI input method for macOS
